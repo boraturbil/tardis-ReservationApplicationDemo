@@ -1,8 +1,8 @@
 # tardis
 ## Rezervation Application
-###### Producer:Ahmet Can Erol
+###### Producer:Bora Turbil,Ahmet Can Erol
 
-![ımage of tardis](https://github.com/ahmetcerol/tardis-ReservationApplicationDemo/blob/master/logo.jpg)
+![ımage of tardis](https://github.com/boraturbil/tardis-ReservationApplicationDemo/blob/master/logo.jpg)
 
 *Bu uygulama Yazılım Mimarisi dersimizin uygulama ödevidir!*
 
